@@ -8,7 +8,6 @@
 ## Quick Links
 
 
-- [Live Site](#live-site-demo)
 - [Video](#video-demo)
 
 [Tech Stack](#tech-stack)
@@ -24,10 +23,6 @@
 ---
 
 ## Demo
-
-### Live Site Demo
-
-Demo: [Link](https://netflix-clone-by-shivam.netlify.com/)
 
 ### Video Demo
 

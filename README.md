@@ -7,7 +7,6 @@
 
 ## Quick Links
 
-[Demo](#demo)
 
 - [Live Site](#live-site-demo)
 - [Video](#video-demo)
